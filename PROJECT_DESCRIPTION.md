@@ -1,6 +1,6 @@
 # Decentralized Voting dApp
 
-**Deployed Frontend URL:** http://localhost:5173 (Local Development)
+**Deployed Frontend URL:** https://program-adecom16.vercel.app/
 
 **Solana Program ID:** `GwLxstntnDEmYcqP7suzhp6Ui2HK3S4ctHTtqvo8mTef`
 
